@@ -4,7 +4,7 @@
 - 👩‍🎓 Graduanda em Ciência da Computação pela Universidade Federal do Ceará
 - 📚 Tenho conhecimentos em linguagens de programação como Python, C e arrisco HTML e CSS
 - 👩‍💻 Atualmente ocupo o cargo de Design UI/UX e Analista de requisitos no desenvolvimento de um aplicativo
-- ✨ Pronouns: ela/dela
+
 
 <div align="center">
   <a href="https://github.com/eduardanog">
