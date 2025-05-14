@@ -1,8 +1,5 @@
-## Olá! Eu sou a Maria Eduarda 😁👍
-
-
 - 👩‍🎓 Graduanda em Ciência da Computação pela Universidade Federal do Ceará
-- 👩‍💻 Analista de Qualidade
+
 
 
 <div align="center">
